@@ -3,5 +3,6 @@ def print_hi(name):
 
 
 if __name__ == "__main__":
-    print_hi("Jujar")
+    name = input("Enter Your Name:")
+    print_hi(name)
 
